@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+.main{
+	display: flex;
+	justify-content: space-around;
+	margin-left: 10%;
+}
+.login{
+	width:50%;
+}
+.register{
+	width:50%;
+	height:400px;
+}
+.input{
+	background-color: white;	
+}
+.welcome{
+	color:RGB(153, 0, 255);
+}
